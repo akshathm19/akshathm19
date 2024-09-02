@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshathm19
-- 👀 I’m interested in Front end Web Development.
-- 🌱 I’m currently learning HTML, CSS,JS.
-- 💞️ I’m looking to collaborate with aspiring web developers.
+- 👀 I’m a passionate VLSI Engineer.
+- 🌱 I’m currently learning Verilog,System Verilog,C.
+- 💞️ I’m looking to collaborate with aspiring semiconductor chip designers.
 - 📫 How to reach me https://linkedin.com/in/akshath-m-3a2004228
 
 
